@@ -1,6 +1,6 @@
 #EZTrack
 ######Original script written by Andreas Braun (andreas.braun_at_crg.eu)
-######Modified by Matthieu Louis (mlouis_at_crg.eu) and Ajinkya Deogade
+######Modified by Matthieu Louis (mlouis_at_lifesci.ucbs.edu) and Ajinkya Deogade
 
 ######Purpose: basic script aiming at tracking a single larva freely moving in a Petri dish
 
